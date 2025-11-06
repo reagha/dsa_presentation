@@ -16,7 +16,7 @@ class FibonacciDP {
         int n = 10;
         memo = new int[n + 1];
 
-        // initialize memo array
+        
         for (int i = 0; i <= n; i++) memo[i] = -1;
 
         System.out.println("Fibonacci of " + n + " is " + fib(n));
