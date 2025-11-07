@@ -9,7 +9,7 @@ int main() {
 
     // Copy arr1 into merged
     for (i = 0; i < size1; i++) {
-        merged[i] = arr1[i];+
+        merged[i] = arr1[i];
     }
 
     // Copy arr2 into merged after arr1
